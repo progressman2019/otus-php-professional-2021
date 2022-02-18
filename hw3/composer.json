@@ -1,0 +1,14 @@
+{
+    "name": "root/app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "progressman2019",
+            "email": "progressman2019@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "progressman2019/sum-calculator": "dev-master"
+    }
+}
